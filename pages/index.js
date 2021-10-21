@@ -5,7 +5,7 @@ export default function Home({ articles }) {
   return (
     <div>
 
-      <h1>Situation Slide</h1>
+      <h1>Vision Demo Situation Slide</h1>
 
       <p>Job Title and Industry: Head of Marketing, Utility/Electric company</p>
 
